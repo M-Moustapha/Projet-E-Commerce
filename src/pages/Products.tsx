@@ -100,7 +100,7 @@ export default function Products() {
         placeholder="Rechercher un produit..."
       />
 
-      {/* ADD PRODUCT */}
+      
       <div className="my-4 p-4 border rounded bg-gray-50">
         <h2 className="font-semibold mb-2">Ajouter produit</h2>
 
